@@ -1,1 +1,1 @@
-Fork from [Sendgrid Api Key](https://github.com/s-ichikawa/laravel-sendgrid-driver).
+Fork from [s-ichikawa/laravel-sendgrid-driver](https://github.com/s-ichikawa/laravel-sendgrid-driver).
